@@ -1,0 +1,16 @@
+Name,Location,Group,Owner,Temperature,Relative humidity,Conditions could change
+Binder climate chamber 1,G14.O1.R11,PPG,JACOBEL1,55°C,No humidity control,yes
+Binder climate chamber 3,G14.O1.R11,PPG,JACOBEL1,25°C,60%RH,no
+Binder climate chamber 4,G14.O1.R11,PPG,JACOBEL1,60°C,80%RH,no
+Binder climate chamber 5,G14.O1.R11,PPG,JACOBEL1,40°C,75%RH,no
+Binder climate chamber 6,G14.O1.R04,PPG,JACOBEL1,30°C,60%RH,yes
+Binder climate chamber 7,G14.O1.R11,PPG,JACOBEL1,70°C,80%RH,yes
+Binder oven 1,G14.O1.R12,PPG,JACOBEL1,75°C,No humidity control,yes
+Binder oven 2,G14.O1.R04,PPG,JACOBEL1,90°C,No humidity control,yes
+Binder oven 3,G14.O1.R04,PPG,JACOBEL1,70°C,No humidity control,yes
+Binder oven 4,G14.O1.R04,PPG,JACOBEL1,65°C,No humidity control,yes
+Binder oven 5,G14.O1.R04,PPG,JACOBEL1,80°C,No humidity control,yes
+Binder oven 6,G14.O1.R12,PPG,JACOBEL1,37°C,No humidity control,no
+Memmert oven 6,G14.O1.R12,PPG,JACOBEL1,40°C,No humidity control,no
+Memmert oven 7,G14.O1.R12,PPG,JACOBEL1,60°C,No humidity control,no
+Memmert oven 8,G14.O1.R12,PPG,JACOBEL1,25°C,No humidity control,no
